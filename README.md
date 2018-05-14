@@ -5,3 +5,5 @@
 Install xampp for windows, mac or linux..
 then open form_file.php using local host
 and then uplaod file
+
+# Finally download the Zip file
