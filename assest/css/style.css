@@ -1,0 +1,39 @@
+.back
+{
+	background-image: url(http://www.bixasoft.com/wp-content/uploads/2016/10/web-background.jpg);
+}
+.h1, h1
+{
+	font-size: 55px!important;
+	color: #fff!important;
+}
+.ha
+{
+	font-size: 60px!important;
+	color: #fff!important;
+}
+.color_white
+{
+	color: #fff!important;
+}
+.font_25
+{
+	font-size: 25;
+}
+.mar
+{
+	margin-bottom: 70px;
+}
+.margin_top
+{
+	margin-top: 50px;
+}
+.margin
+{
+	margin-bottom: 40px;
+}
+.fixed
+{
+	top: 400px;
+	left: 100px;
+}
